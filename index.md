@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcometomyblog"
 date: 2023-04-02
 ---
 
